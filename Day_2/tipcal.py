@@ -10,5 +10,5 @@ total_bill = bill + total_tip
 pay = total_bill / split
 #output start
 print(f"Each person should pay: ${pay}")
-pay_1 = (round(pay, 2)) #rount of method
-print(f"Each person should pay: ${pay_1}")
+#pay_1 = (round(pay, 2)) #rount of method
+#print(f"Each person should pay: ${pay_1}")
