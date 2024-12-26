@@ -36,8 +36,6 @@ if choice1 == "left":
             print("You enter a room of beasts. Game Over")
         else:
             print("You chose a door that doesn't exist. Game over")
-
-
     else:
         print("You got attacked by an angry trout. Game Over")
 else:
