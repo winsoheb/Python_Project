@@ -1,6 +1,5 @@
 # Question:
 # Write a Python program that checks if a person is eligible to enter a water park. The program should:
-#
 # Ask the user to input their age.
 # Determine the ticket price based on their age:
 # Ages below 5: Not eligible to enter.
